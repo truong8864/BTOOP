@@ -1,0 +1,10 @@
+﻿  BT6.cpp
+e:\truong\btoop\bt3\bt6\bt6\bt6.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Compiling...
+  cGiaSuc.cpp
+  cDe.cpp
+  cCuu.cpp
+  cBo.cpp
+  Generating Code...
+  BT6.vcxproj -> E:\TRUONG\BTOOP\bt3\BT6\Debug\BT6.exe
